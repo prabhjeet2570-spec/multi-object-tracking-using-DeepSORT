@@ -1,0 +1,12 @@
+ultralytics>=8.3.0
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+pytube>=15.0.0
+pytubefix>=10.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+scipy>=1.7.0
+filterpy>=1.4.5
+tensorflow>=2.8.0
+numpy>=1.23.0
+Pillow>=7.1.2
